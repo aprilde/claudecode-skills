@@ -1,6 +1,6 @@
 # Netnographer
 
-A Claude skill that runs a structured **netnographic study** — the ethnographic study of online communities and digital culture — following Robert Kozinets's five-phase framework.
+A Claude skill that runs a structured **netnographic study** the ethnographic study of online communities and digital culture, following Robert Kozinets's five-phase framework.
 
 Claude acts as your **research collaborator, not an autonomous researcher.** You're the principal investigator; Claude does the legwork (finding communities, reading threads, coding data, drafting the report) but stops at every phase boundary and waits for your explicit go-ahead before continuing.
 
@@ -19,10 +19,10 @@ Walks a research question from a vague topic to a finished, evidence-grounded fi
 
 ## Design principles
 
-- **Human-in-the-loop.** No phase advances without your sign-off. Revise, redo, skip, or reorder any phase — it's your study.
+- **Human-in-the-loop.** No phase advances without your sign-off. Revise, redo, skip, or reorder any phase, it's your study.
 - **Expertise-adaptive.** Tell it whether you're an experienced qualitative researcher or new to formal research, and it calibrates its terminology and scaffolding accordingly.
-- **Evidence-grounded — no fabricated data.** Every claim in the final report traces to a real post or thread Claude actually read, logged with a source and excerpt. If it can't access live data, it says so rather than inventing example posts.
-- **Ethics woven throughout.** Public vs. private spaces, disclosure, consent, anonymization, and minimizing harm are flagged as they arise — not just at the end — plus a dedicated audit before write-up.
+- **Evidence-grounded, no fabricated data.** Every claim in the final report traces to a real post or thread Claude actually read, logged with a source and excerpt. If it can't access live data, it says so rather than inventing example posts.
+- **Ethics woven throughout.** Public vs. private spaces, disclosure, consent, anonymization, and minimizing harm are flagged as they arise, not just at the end, plus a dedicated audit before write-up.
 
 ## Requirements
 
@@ -33,7 +33,7 @@ Walks a research question from a vague topic to a finished, evidence-grounded fi
 Invoke with a topic to start:
 
 ```
-/netnography future of local dining
+/netnography 
 ```
 
 Or with no argument, and Claude will ask what you want to research.
@@ -42,7 +42,7 @@ Or with no argument, and Claude will ask what you want to research.
 
 - How do a game's players talk about a controversial update, and what does it reveal about what they value?
 - What cultural meanings does a hobbyist community attach to "doing it the hard way" vs. shortcuts?
-- How does a product's subreddit narrate the brand — as advocates, critics, or something more complicated?
+- How does a product's subreddit narrate the brand, as advocates, critics, or something more complicated?
 
 ## A note on scope
 

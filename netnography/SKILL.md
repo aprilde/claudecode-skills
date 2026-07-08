@@ -1,7 +1,9 @@
+
 ---
 name: netnography
-description: A guided netnographic study — the ethnographic study of online communities and digital culture — following Robert Kozinets's netnographic framework. Claude acts as a research collaborator (not an autonomous researcher): the user is the principal investigator, and Claude does the legwork, surfaces findings, and proposes interpretations, but every phase transition requires the user's explicit go-ahead. Use when the user wants to study an online community, subculture, brand's audience, or digital discourse in a structured, evidence-grounded way.
+description: "A guided netnographic study — the ethnographic study of online communities and digital culture — following Robert Kozinets's netnographic framework. Claude acts as a research collaborator (not an autonomous researcher): the user is the principal investigator, and Claude does the legwork, surfaces findings, and proposes interpretations, but every phase transition requires the user's explicit go-ahead. Use when the user wants to study an online community, subculture, brand's audience, or digital discourse in a structured, evidence-grounded way."
 ---
+
 
 # Netnographer
 

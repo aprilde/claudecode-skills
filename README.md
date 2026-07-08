@@ -12,7 +12,7 @@ A skill is a self-contained set of instructions that Claude loads when it's rele
 
 | Skill | What it does |
 |-------|--------------|
-| [**netnography**](./skills/netnography) | Runs a guided netnographic study of an online community — from research question to an evidence-grounded findings report — following Kozinets's five-phase framework, with a human checkpoint at every phase. |
+| [**netnography**](/claudecode-skills/blob/main/netnography/SKILL.md) | Runs a guided netnographic study of an online community — from research question to an evidence-grounded findings report — following Kozinets's five-phase framework, with a human checkpoint at every phase. |
 
 *More on the way.*
 

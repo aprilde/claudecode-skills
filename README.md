@@ -37,10 +37,3 @@ claudecode-skills/
         └── README.md       ← writeup & usage
 ```
 
-## About
-
-I'm a product manager with a software background, building a public portfolio of the tooling and workflows I use. These skills are part of that — practical, tested, and meant to be reused. Feedback and issues welcome.
-
-## License
-
-MIT — see [LICENSE](./LICENSE). Use, adapt, and share freely.

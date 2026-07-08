@@ -20,12 +20,13 @@ A skill is a self-contained set of instructions that Claude loads when it's rele
 2. Add the `SKILL.md` to your Claude setup however your environment loads skills.
 3. Invoke it as described in that skill's README.
 
+
 ## Repo structure
 
-​```
+```
 claudecode-skills/
 ├── README.md              ← you are here
 └── netnography/
     ├── SKILL.md           ← the skill
     └── README.md          ← writeup & usage
-​```
+```
